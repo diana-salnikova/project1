@@ -22,7 +22,7 @@ I then calculated Pearson correlations to examine the relationship between sales
 
 Finally, I tested hypotheses using independent two-sample t-tests. 
 
-Key Technical Skills Applied
+### Key Technical Skills Applied
 - Data cleaning and transformation with pandas
 - Aggregation and grouping operations
 - Correlation analysis
